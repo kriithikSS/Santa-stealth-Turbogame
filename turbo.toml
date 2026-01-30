@@ -1,0 +1,6 @@
+[canvas]
+width = 640
+height = 360
+
+[audio]
+intro = "audio_backup/intro.wav"
